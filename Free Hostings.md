@@ -18,7 +18,8 @@
 
 
 Este es el que para mi es el mejor host de entre los 5 [Infinity](https://github.com/Ruben1305/Free-Hosting/blob/main/InfinityFree.md)
-Pero aqui estan las demas opciones: 
+
+Pero aqui estan las demas opciones: [HubSpot](https://github.com/Ruben1305/Free-Hosting/blob/main/Hubspot.md)
 
 
 
