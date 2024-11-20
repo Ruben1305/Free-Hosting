@@ -17,3 +17,18 @@ Donde nos da opcion de muchas cosas como por ejemplo de crear una `database`.
 Y la podemos modificar de la forma que queramos.
 
 ![Infinity](infinityfree4.png)
+
+Si vovlemos al inicio tenemos una opcion que sale para manegar mi dominio.
+
+![Infinity](Infinityfree7.png)
+
+Dentro de esa opcion nos dan varias como ahora poder subir archivos para mi pagina `WEB`.
+
+![Infinity](Infinityfree6.png)
+
+Y otra de las opciones es que nos la creacion de una pagina `WEB`, al entrar a esa opcion salen muchas plantillas para podder elegir como por ejemplo esta: 
+
+![Infinity](Infinityfree8.png)
+
+Una vez hemos visto todas las cosas que se pueden hacer con este hosting y sin pagar para mi es el mejor por crezes.
+
