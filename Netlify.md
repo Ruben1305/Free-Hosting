@@ -1,6 +1,6 @@
-# Netfly
+# Netlify
 
-Netfly es un host que nos permite almacenar `WEBS`.
+Netlify es un host que nos permite almacenar `WEBS`.
 
 Una vez hemos entrado a la pagina web el primer paso es regitrarse.
 
