@@ -19,7 +19,7 @@
 
 Este es el que para mi es el mejor host de entre los 5 [Infinity](https://github.com/Ruben1305/Free-Hosting/blob/main/InfinityFree.md)
 
-Pero aqui estan las demas opciones: [HubSpot](https://github.com/Ruben1305/Free-Hosting/blob/main/Hubspot.md), [FreeHosting](https://github.com/Ruben1305/Free-Hosting/blob/main/FreeHosting.md), [AwardSpace](https://github.com/Ruben1305/Free-Hosting/blob/main/AwardSapce.md), [Netlify](https://github.com/Ruben1305/Free-Hosting/blob/main/Netlify.md),
+Pero aqui estan las demas opciones: [HubSpot](https://github.com/Ruben1305/Free-Hosting/blob/main/Hubspot.md), [FreeHosting](https://github.com/Ruben1305/Free-Hosting/blob/main/FreeHosting.md), [AwardSpace](https://github.com/Ruben1305/Free-Hosting/blob/main/AwardSapce.md), [Netlify](https://github.com/Ruben1305/Free-Hosting/blob/main/Netlify.md)
 
 
 
