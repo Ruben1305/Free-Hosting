@@ -10,7 +10,7 @@ A la hora de registrarnos lo que nos pide varias cosas como ahora.
 
 ![Netfly](Netfly2.png)
 
-Y estas son todas las cosas que nos ofrece `netfly`. 
+Y estas son todas las cosas que nos ofrece `netfly`. Para poder hacer cosas con el.
 
 ![Netfly](Netfly3.png)
 
